@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+
 import './App.css'
 import ClaimForm from './components/ClaimForm'
 
